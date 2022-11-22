@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226526983105",
+    "project_id": "menexus-89b00",
+    "storage_bucket": "menexus-89b00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226526983105:android:aa6540387b4a73c8237540",
+        "android_client_info": {
+          "package_name": "com.app.menexus.menexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226526983105-2v7nkfedgsa2p9ltf9sepviji65r3fmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYi6Kb2uZuIrMzLPWUsWVhtovnbtPiktE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226526983105-2v7nkfedgsa2p9ltf9sepviji65r3fmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
