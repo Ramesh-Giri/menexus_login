@@ -20,7 +20,6 @@ class GoogleLoginCubit extends Cubit<GoogleLoginState> {
       }
     } catch (e, stackTrace) {
       print('Google fail error $e');
-      print('Google fail stackTace $stackTrace');
       emit(GoogleLoginFailure(e.toString()));
     }
   }
